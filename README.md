@@ -5,3 +5,5 @@ Inspired by these posts over on r/dataisbeautiful -
 1. https://www.reddit.com/r/dataisbeautiful/comments/7xicua/my_girlfriend_made_a_visualization_of_all/
 2. https://www.reddit.com/r/dataisbeautiful/comments/8ubs99/wip_me_and_gfs_text_messaging_habits_oc/
 3. https://www.reddit.com/r/dataisbeautiful/comments/8br5hq/made_this_for_my_bf_on_our_one_year_anniversary_oc/dxa7upm/
+
+![sample](https://imgur.com/a/smUoiw2.png)
