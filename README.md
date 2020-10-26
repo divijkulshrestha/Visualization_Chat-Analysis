@@ -1,3 +1,3 @@
-# Visualization_Chat-Analysis
-Going through Text messages and extracting insights, presented via visualizations. 
-Results - https://postimg.cc/gallery/xMVK91S
+# Analyzing WhatsApp chat messages across 4 years
+Going through text messages between me and my friend over the last four years of college. 
+See the resulting visualizations here - https://postimg.cc/gallery/xMVK91S
