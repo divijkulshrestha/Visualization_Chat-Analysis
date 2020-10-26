@@ -1,5 +1,5 @@
 # Analyzing WhatsApp chat messages across 4 years
-Going through text messages between me and my friend over the last four years of college. Python was used to make the analysis and the initial visualizations, and I presented my findings using Canva. See the resulting visualizations here - https://postimg.cc/gallery/xMVK91S or look at the PNG files in the repository.
+Going through text messages between me and my friend over the last four years of college. Python was used to make the analysis and the initial visualizations, and I presented my findings using Canva. <br>See the resulting visualizations here - https://postimg.cc/gallery/xMVK91S or look at the PNG files in the repository.
 
 Inspired by these posts over on r/dataisbeautiful - 
 1. https://www.reddit.com/r/dataisbeautiful/comments/7xicua/my_girlfriend_made_a_visualization_of_all/
